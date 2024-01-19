@@ -1,4 +1,4 @@
-# Network Flows course project
+## Network Flows master's level course project
 This research presents an innovative, comprehensive model aiming to maximise profit from airlines' ancillary services,
 particularly focusing on passenger accommodation services. To navigate the competitive airline industry landscape,
 this study introduces a Mixed Integer Linear Programming (MILP) model designed to encourage passengers to invest
