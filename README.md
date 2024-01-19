@@ -1,4 +1,4 @@
-Combinatorial Optimisation course project
+## Combinatorial Optimisation course project (currently under review in Journal of Air Transport Management)
 This research presents an innovative, comprehensive model aiming to maximise profit from airlines' ancillary services,
 particularly focusing on passenger accommodation services. To navigate the competitive airline industry landscape,
 this study introduces a Mixed Integer Linear Programming (MILP) model designed to encourage passengers to invest
